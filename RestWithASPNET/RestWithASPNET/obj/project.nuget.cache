@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "208c+nedZb2MyQJ7DsmfwHf5j4n8XbHjvMLzuLqGMF3TXDjQrg1Td+7q6HVlKNdEePcL6IB1Biq9yKBo35ZL5A==",
+  "dgSpecHash": "7rDQgW6Sfk6aE7sXmwje8LWD8ze6CD/5pE9EOsfnXJy9yyxeOfA4K+PJSwSwoZQKPn6irmGFOdcdj8ASQR/OwQ==",
   "success": true,
-  "projectFilePath": "C:\\CURSO\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+  "projectFilePath": "C:\\CURSO\\MicrosServicos\\MicroServices-DotNET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
