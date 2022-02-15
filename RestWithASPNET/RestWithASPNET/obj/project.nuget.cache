@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "208c+nedZb2MyQJ7DsmfwHf5j4n8XbHjvMLzuLqGMF3TXDjQrg1Td+7q6HVlKNdEePcL6IB1Biq9yKBo35ZL5A==",
+  "success": true,
+  "projectFilePath": "C:\\CURSO\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
